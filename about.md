@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hello I'm Jeong-YongLin Korean 
+始めまして。私はJeong-YongLinです。韓国人です。
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+私は今プログラミングを勉強しています。
+このブログはプログラミングの練習とか勉強資料をアップデートしています。
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[ellinm913043@gmail.com](mailto:ellinm913043@gmail.com)
