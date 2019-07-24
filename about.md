@@ -4,7 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Hello I'm Jeong-YongLin Korean 
+Hello I'm Jeong-YongLin Korean
+
 始めまして。私はJeong-YongLinです。韓国人です。
 
 ### More Information
