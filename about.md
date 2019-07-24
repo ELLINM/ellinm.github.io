@@ -9,7 +9,8 @@ Hello I'm Jeong-YongLin Korean
 
 ### More Information
 
-私は今プログラミングを勉強しています。　　　
+私は今プログラミングを勉強しています。
+
 このブログはプログラミングの練習とか勉強資料をアップデートしています。
 
 ### Contact me
