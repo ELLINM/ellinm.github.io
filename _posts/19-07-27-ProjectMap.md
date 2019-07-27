@@ -17,7 +17,7 @@ title: User Map
 ![ProjectMap]({{https://github.com/ELLINM/ellinm.github.io/master}}/images/ProjectMap2.jpg)
 
 
-1 .会員情報サービス
+1. 会員情報サービス
 
 + 加入
 + ログイン
