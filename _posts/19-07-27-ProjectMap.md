@@ -13,17 +13,22 @@ title: User Map
 
 まず、会員サービスカテゴリーを3つに分けてみました。
 
+https://raw.githubusercontent.com/ELLINM/ellinm.github.io/master/images/ProjectMap2.jpg
+
+
 1.会員情報サービス
 + 加入
 + ログイン
 + 脱退
 + 修正
 
+
 2.友達関係サービス
 + 検索
 > ID
 > 番号
 > 名前
+
 
 メッセージ
 + 入力
@@ -36,6 +41,7 @@ title: User Map
 > 受諾
   お断り
   遮断
+
 
 3.ポスティング
 + 入力
