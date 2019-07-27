@@ -14,7 +14,7 @@ title: User Map
 まず、会員サービスカテゴリーを3つに分けてみました。
 
 
-https://raw.githubusercontent.com/ELLINM/ellinm.github.io/master/images/ProjectMap2.jpg
+[ProjectMap](!https://raw.githubusercontent.com/ELLINM/ellinm.github.io/master/images/ProjectMap2.jpg)
 
 
 
