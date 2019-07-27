@@ -17,7 +17,7 @@ title: User Map
 ![ProjectMap]({{https://github.com/ELLINM/ellinm.github.io/master}}/images/ProjectMap2.jpg)
 
 
-1.会員情報サービス
+1 .会員情報サービス
 
 + 加入
 + ログイン
@@ -25,7 +25,7 @@ title: User Map
 + 修正
 
 
-2.友達関係サービス
+2. 友達関係サービス
 
 + 検索
 - ID
@@ -33,25 +33,25 @@ title: User Map
   名前
 
 
-メッセージ
-+ 入力
-- テキスト
-  写真
-  映像
++ メッセージ
+  - 入力
+  - テキスト
+    写真
+    映像
 
 + 削除
 + 申請
-- 受諾
-  お断り
-  遮断
+  - 受諾
+    お断り
+    遮断
 
 
 3.ポスティング
 
 + 入力
-- テキスト
-  写真
-  映像
+  - テキスト
+    写真
+    映像
 
 + 修正
 + 削除
