@@ -19,6 +19,7 @@ https://raw.githubusercontent.com/ELLINM/ellinm.github.io/master/images/ProjectM
 
 
 1.会員情報サービス
+
 + 加入
 + ログイン
 + 脱退
@@ -26,6 +27,7 @@ https://raw.githubusercontent.com/ELLINM/ellinm.github.io/master/images/ProjectM
 
 
 2.友達関係サービス
+
 + 検索
 > ID
 > 番号
@@ -46,6 +48,7 @@ https://raw.githubusercontent.com/ELLINM/ellinm.github.io/master/images/ProjectM
 
 
 3.ポスティング
+
 + 入力
 > テキスト
   写真
