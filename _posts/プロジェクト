@@ -1,0 +1,18 @@
+  
+---
+
+layout: post
+
+title: プロジェクト
+
+---
+
+私のチームのプロジェクトはCINEピクと言うサイトです。
+このサイトのことは映像でアプロードしました。
+私の担当はPythonを使ってWebParssingしたこととWebParssingした資料をDataBase化したことです。
+このプロジェクトのコードはGitHubにアプロードしました。
+
+https://github.com/ELLINM/project
+
+このサイトはユーザーか映画の検索ができます。
+
