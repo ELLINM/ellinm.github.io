@@ -1,10 +1,4 @@
----
 
-layout: post
-
-title: Make Portfolio
-
----
 
 ポートフォリオ
 ------
