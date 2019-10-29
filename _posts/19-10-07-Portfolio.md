@@ -2,7 +2,7 @@
 
 layout: post
 
-title: 自己紹介
+title: Portfolio
 
 ---
 
@@ -40,22 +40,20 @@ JAVA、Spring、DataBaseを勉強しました。
 
 Pythonは自分が関心を合って一人で勉強しました。     
 そしで、プロジェクト作る時使用してプロジェクトを完成しました。      
-
-
-
+     
 Link: [https://github.com/ELLINM/coding_tutorial](https://github.com/ELLINM/coding_tutorial)     
 このような勉強した資料をGITHUBにアプロードしました。
-このGITHUBには今まで授業で勉強したものとコード、一人で勉強した資料、探した資料があります。
+このGITHUBには今まで授業で勉強したものとコード、一人で勉強した資料、探した資料があります。     
 
 
+プロジェクト
+------
 私のチームのプロジェクトは"CINEピク"と言うサイトです。   
 このサイトのことは映像でアプロードしました。   
 私の担当はPythonを使ってWebParssingしたこととWebParssingした資料をDataBase化したことです。   
 そして、基本的なバックエンドも担当しました。   
-このプロジェクトのコードはGitHubにアプロードしました。    
-
-
-
+このプロジェクトのコードはGitHubにアプロードしました。     
+     
 Link:[https://github.com/ELLINM/project](https://github.com/ELLINM/project)     
 このサイトはユーザーか映画の検索ができます。    
 それで映画の情報確認して、見たことができます。    
