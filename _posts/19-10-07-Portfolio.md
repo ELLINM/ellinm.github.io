@@ -6,7 +6,7 @@ title: Portfolio
 
 ---
 
-ジョン・ヨンリン
+ジョン・ヨンリンは
 ======
 + 名前：ジョン・ヨンリン
 
@@ -22,7 +22,7 @@ title: Portfolio
 どうぞよろしくお願いいたします。    
 
 
-私の能力
+能力
 =====
 ![Ability](/images/ability.PNG)
 
@@ -69,7 +69,7 @@ Link: [https://github.com/ELLINM/coding_tutorial](https://github.com/ELLINM/codi
 
 
 プロジェクト
-------
+=====
 + Title：CINEピク   
 + 使用言語：
   + Python：WebParssingして資料をDataBase化
