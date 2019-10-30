@@ -7,7 +7,7 @@ title: Portfolio
 ---
 
 ジョン・ヨンリン
------
+======
 + 名前：ジョン・ヨンリン
 
 + 年齢：30歳
@@ -23,40 +23,60 @@ title: Portfolio
 
 
 私の能力
------
+=====
 ![Ability](/images/ability.PNG)
 
-私はSCITMASTERで勉強しながら日本語とプログラミングができるになりました。     
-まず、会社で働く経験で文書作成をよくすることができます。     
-そして、アルバイトと金融会社で勤務をしながら顧客様の立場で考えで顧客様が望んだものをよくつかむことができます。     
-また、SCITMASTERで勉強しながら日本語をできるようになり、昔専攻を学びながら書籍と論文を読むために漢字を勉強して中国語もできるようぬまりました。     
-特に、私はプログラミングを勉強ししながらGITHUBを使って勉強しました。     
-分からないことを調べて勉強し、復習をために整理してGITHUBにアプロードしました。     
-その結果少しでもGITHUBを使う方法を知りなりました。     
+言語
+----
++ 日本語：JPT555点（JLPTN2水準）
++ 中国語：新HSK3級（簡単な会話、読むことができる）
++ 英語：ビジネスレベル
 
++ 私はSCITMASTERで勉強しながら日本語とプログラミングができるになりました。     
+  中国語は大学生ごろ専攻を勉強しながら漢字と本を読みながら自然に学びました。     
+  英語大学を卒業あとで試験を受けましたが証明期間が過ぎました。
+
+業務
+----
++ MS OFFICE
+  + Word：中級
+  + Excel：中級
+  + PPT：中級
++ 文書作成：高級
+
++ 会社で働く経験で文書作成をよくすることができます。     
+  大学、マーケッティング会社で働きながらいろいろな作業をしたらよくｓするになりました。
 
 私のスキル
 ------
 ![Skill](/images/skill.PNG)
 
-私はこのSCITMASTERで初めにプログラミングを勉強しました。     
-JAVA、Spring、DataBaseを勉強しました。      
++ プログラミング言語：JAVA、Python、HTML、JAVAScript
++ FrameWork：Spring
++ IDE：Eclipse、PyCharm
++ DataBase：SQL、OracleDataBase
++ Version Control：GITHUB
 
-Pythonは自分が関心を合って一人で勉強しました。     
-そしで、プロジェクト作る時使用してプロジェクトを完成しました。      
++ 私はこのSCITMASTERで初めにプログラミングを勉強しました。     
+  JAVA、Spring、DataBaseを勉強しました。      
+
++ Pythonは自分が関心を合って一人で勉強しました。     
+  そしで、プロジェクト作る時使用してプロジェクトを完成しました。      
      
 Link: [https://github.com/ELLINM/coding_tutorial](https://github.com/ELLINM/coding_tutorial)     
-このような勉強した資料をGITHUBにアプロードしました。
-このGITHUBには今まで授業で勉強したものとコード、一人で勉強した資料、探した資料があります。     
++ このような勉強した資料をGITHUBにアプロードしました。        
+  このGITHUBには今まで授業で勉強したものとコード、一人で勉強した資料、探した資料があります。     
 
 
 プロジェクト
 ------
-私のチームのプロジェクトは"CINEピク"と言うサイトです。   
-このサイトのことは映像でアプロードしました。   
-私の担当はPythonを使ってWebParssingしたこととWebParssingした資料をDataBase化したことです。   
-そして、基本的なバックエンドも担当しました。   
-このプロジェクトのコードはGitHubにアプロードしました。     
++ Title：CINEピク   
++ 使用言語：
+  + Python：WebParssingして資料をDataBase化
+  + JAVA、JavaScript： ホームページと機能を使いました。   
+  + FrameWork：Spring
++ DataBase：OracleDataBase
++ 担当：Pythonを使ってWebParssingして資料をDataBase化、ユーザー管理機能
      
 Link:[https://github.com/ELLINM/project](https://github.com/ELLINM/project)     
 このサイトはユーザーか映画の検索ができます。    
