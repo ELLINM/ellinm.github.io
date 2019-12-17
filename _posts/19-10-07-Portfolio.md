@@ -52,13 +52,13 @@ title: Portfolio
 ![Skill](/images/skill.PNG)
 
 + プログラミング言語：JAVA、Python、HTML、JAVAScript
-+ FrameWork：Spring
++ Framework：Spring
 + IDE：Eclipse、PyCharm
-+ DataBase：SQL、OracleDataBase
-+ Version Control：GITHUB
++ Database：SQL、OracleDatabase
++ Version Control：git
 
 + 私はこのSCITMASTERで初めにプログラミングを勉強しました。     
-  JAVA、Spring、DataBaseを勉強しました。      
+  JAVA、Spring、Databaseを勉強しました。      
 
 + Pythonは自分が関心を合って一人で勉強しました。     
   そしで、プロジェクト作る時使用してプロジェクトを完成しました。      
@@ -72,7 +72,7 @@ Link: [https://github.com/ELLINM/coding_tutorial](https://github.com/ELLINM/codi
 =====
 + Title：CINEピク   
 + 使用言語：
-  + Python：WebParssingして資料をDataBase化
+  + Python：WebParsingして資料をDataBase化
   + JAVA、JavaScript： ホームページと機能を使いました。   
   + FrameWork：Spring
 + DataBase：OracleDataBase
