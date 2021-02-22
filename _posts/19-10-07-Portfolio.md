@@ -10,7 +10,7 @@ title: Portfolio
 ======
 + 名前：ジョン・ヨンリン
 
-+ 年齢：31歳
++ 生年月日：1989年05月03日
 
 + 専攻：歴史学
 
@@ -62,11 +62,7 @@ title: Portfolio
 
 + Pythonは自分が関心を合って一人で勉強しました。     
   そしで、プロジェクト作る時使用してプロジェクトを完成しました。      
-     
-Link: [https://github.com/ELLINM/coding_tutorial](https://github.com/ELLINM/coding_tutorial)     
-+ このような勉強した資料をGITHUBにアプロードしました。        
-  このGITHUBには今まで授業で勉強したものとコード、一人で勉強した資料、探した資料があります。     
-
+  
 
 プロジェクト
 =====
@@ -78,7 +74,4 @@ Link: [https://github.com/ELLINM/coding_tutorial](https://github.com/ELLINM/codi
 + DataBase：OracleDataBase
 + 担当：Pythonを使ってWebParssingして資料をDataBase化、ユーザー管理機能
      
-Link:[https://github.com/ELLINM/project](https://github.com/ELLINM/project)     
-このサイトはユーザーか映画の検索ができます。    
-それで映画の情報確認して、見たことができます。    
 
