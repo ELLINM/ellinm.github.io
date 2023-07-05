@@ -49,7 +49,7 @@ title: Portfolio
 
 スキル
 ------
-![Skill](/images/skill.PNG)
+![Skill](/images/skill.png)
 
 + 言語：JAVA、JAVAScript、HTML、CSS、Vue、React
 + Framework：Spring
