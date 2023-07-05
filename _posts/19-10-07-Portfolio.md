@@ -47,25 +47,29 @@ title: Portfolio
 + 会社で働く経験で文書作成をよくすることができます。     
   大学、マーケッティング会社で働きながらいろいろな作業をしたらよくｓするになりました。
 
-私のスキル
+スキル
 ------
 ![Skill](/images/skill.PNG)
 
-+ プログラミング言語：JAVA、Python、HTML、JAVAScript
++ 言語：JAVA、JAVAScript、HTML、CSS、Vue、React
 + Framework：Spring
-+ IDE：Eclipse、PyCharm
-+ Database：SQL、OracleDatabase
-+ Version Control：git
++ IDE：Eclipse、VSCode
++ Database：SQL、OracleDatabase、Mssql
++ Version Control：git（Github、Bitbucket）、SVN
 
 + 私はこのSCITMASTERで初めにプログラミングを勉強しました。     
   JAVA、Spring、Databaseを勉強しました。      
 
-+ Pythonは自分が関心を合って一人で勉強しました。     
-  そしで、プロジェクト作る時使用してプロジェクトを完成しました。      
++ 2021年から現場で働きながら実力を積みました。
+  JAVA、JavaScript（jQuery）など
+
++ 2022年11月から日本来てプロジェクトに参加して働いています。
   
 
 プロジェクト
 =====
+1．SCITMASTERの研修
+---
 + Title：CINEピク   
 + 使用言語：
   + Python：WebParsingして資料をDataBase化
@@ -74,4 +78,30 @@ title: Portfolio
 + DataBase：OracleDataBase
 + 担当：Pythonを使ってWebParssingして資料をDataBase化、ユーザー管理機能
      
+2．韓国のBluecom
+---
++ Title：LG BeconCloud（エアコン、ボイラーなどの管理Web）
++ 使用言語：
+  + JAVA、JavaScript、HTML、CSS   
+  + FrameWork：Spring
++ DataBase：MSsql
++ Version管理：Bitbucket
++ 担当：各装置の制御、エナジー制御を担当しました。
+      　デバッグ、修正、新規などの作業
 
+3．現在日本
+---
++ Title：Softbank光料金の開発   
++ 使用言語：
+  + JAVA   
+  + DataBase：OracleDataBase
++ 担当：新しい料金開発依頼があれば該当する料金システムの要件定義、基本設計、詳細設計を担当しました。
+
+*******
+
++ Title：かんぽ生命（支払システム）
++ 使用言語：
+  + JAVA、JavaScript、HTML、CSS   
+  + FrameWork：Spring
++ DataBase：OracleDataBase
++ 担当：単体テスト、デバッグ、修正、内部設計書作成
