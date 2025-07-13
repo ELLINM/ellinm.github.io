@@ -68,6 +68,7 @@ personal
 + 使用言語：
   + JavaScript,Vue.js
   + IDE：VSCode
+  + AI：Gemini
 + DataBase：MongoDB
 + 機能：会員登録/ログイン、カテゴリー別消費視覚化、反応型デザイン
 ---
