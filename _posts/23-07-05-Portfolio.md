@@ -6,47 +6,18 @@ title: Portfolio
 
 ---
 
-基本情報
+👋 About Me
 ======
-+ 名前：ジョン・ヨンリン
-
-+ 生年月日：1989年05月03日
-
-+ 専攻：歴史学
-
-+ 性格：意欲的，優しい，向上心
-
-初めまして。私はジョン・ヨンリンと申します。   
-私はSCITMASTERでプログラミングと日本語について勉強しました。    
-2021年からIT業界では働きました。
-2021年~2022年韓国で
-2022年11月から今まで働いています。
 
 
-能力
+
+🛠 Skills
 =====
 ![Ability](/images/ability.PNG)
 
 言語
 ----
-+ 中国語：新HSK3級（簡単な会話、読むことができる）
-+ 英語：ビジネスレベル
-
-業務
-----
-+ MS OFFICE
-  + Word：中級
-  + Excel：中級
-  + PPT：中級
-+ 文書作成：高級
-
-+ 会社で働く経験で文書作成をよくすることができます。     
-  大学、マーケッティング会社で働きながらいろいろな作業をしたらよくｓするになりました。
-
-スキル
-------
 ![Skill](/images/skill.png)
-
 + 言語：JAVA、JavaScript、HTML、CSS
 + Framework：Vue、React, Spring, Junit
 + IDE：Eclipse、VSCode
@@ -55,19 +26,9 @@ title: Portfolio
 + Issue management：Jira
 + Tools：ATS(Android Test Station)
 
-+ 私はこのSCITMASTERで初めにプログラミングを勉強しました。     
-  JAVA、Spring、Databaseを勉強しました。      
-
-+ 2021年から現場で働きながら実力を積みました。
-  JAVA、JavaScript（jQuery）など
-
-+ 2022年11月から日本来てプロジェクトに参加して働いています。
-  JAVA, JavaScriptなど
-
-プロジェクト
+💻 Projects
 =====
-
-1．SCITMASTERの研修
+Team
 ---
 + Title：CINEピク   
 + 使用言語：
@@ -76,8 +37,40 @@ title: Portfolio
   + FrameWork：Spring
 + DataBase：OracleDataBase
 + 担当：Pythonを使ってWebParssingして資料をDataBase化、ユーザー管理機能
-     
-2．韓国のBluecom
+---
+personal
+---
++ Title：Board   
++ 使用言語：
+  + JavaScript   
+  + IDE：VSCode
++ DataBase：MongoDB
++ 機能：会員登録/ログイン、掲示物登録、掲示物読み込み、反応型デザイン
+---
++ Title：TodoList   
++ 使用言語：
+  + JavaScript   
+  + IDE：VSCode
++ DataBase：MongoDB
++ 機能：会員登録/ログイン、スケジュール登録、完了チェック、反応型デザイン
+---
++ Title：Nexflix(CloneCoding)   
++ 使用言語：
+  + JavaScript   
+  + IDE：VSCode
++ DataBase：MongoDB
++ 機能：ネットフリックスのメイン画面をクローンコーディングしてコーディング練習
+---
++ Title：MyAccountBook   
++ 使用言語：
+  + JavaScript,Vue.js
+  + IDE：VSCode
++ DataBase：MongoDB
++ 機能：会員登録/ログイン、カテゴリー別消費視覚化、反応型デザイン
+---
+📍 Experience & Education
+====
+Experience
 ---
 + Title：LG BeconCloud（エアコン、ボイラーなどの管理Web）
 + 使用言語：
@@ -88,8 +81,6 @@ title: Portfolio
 + Issue management：Jira
 + 担当：各装置の制御、エナジー制御を担当しました。
       　デバッグ、修正、新規などの作業
-
-3．現在日本
 ---
 + Title：Softbank光料金の開発   
 + 使用言語：
@@ -138,3 +129,25 @@ title: Portfolio
 + Issue management：Jira
 + Document management：TortoiseSVN
 + 担当：単体テスト、デバッグ、不具合の調査、リリース作業
+
+Education
+---
++ 漢城大学(Korea)歴史学専攻
++ SCITMaster 修了
+
+📬 Contact
+====
++ GitHub：https://github.com/ELLINM
++ Email：ellinm913043@gmail.com
++ LinkedIn：https://www.linkedin.com/in/yonglin-jeong-29bb48190/
+
+🏅 Etc
+====
++ 中国語：新HSK3級（簡単な会話、読むことができる）
++ 英語：ビジネスレベル
++ 韓国語：ネイティブ
++ MS OFFICE
+  + Word：中級
+  + Excel：中級
+  + PPT：中級
++ 文書作成：高級
