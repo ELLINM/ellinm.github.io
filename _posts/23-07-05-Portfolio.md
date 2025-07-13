@@ -18,8 +18,9 @@ title: Portfolio
 
 初めまして。私はジョン・ヨンリンと申します。   
 私はSCITMASTERでプログラミングと日本語について勉強しました。    
-今までIT企業じゃなくても広告、金融関連会社でマーケッティングを担当しました。    
-どうぞよろしくお願いいたします。    
+2021年からIT業界では働きました。
+2021年~2022年韓国で
+2022年11月から今まで働いています。
 
 
 能力
@@ -28,13 +29,8 @@ title: Portfolio
 
 言語
 ----
-+ 日本語：JPT555点（JLPTN2水準）
 + 中国語：新HSK3級（簡単な会話、読むことができる）
 + 英語：ビジネスレベル
-
-+ 私はSCITMASTERで勉強しながら日本語とプログラミングができるになりました。     
-  中国語は大学生ごろ専攻を勉強しながら漢字と本を読みながら自然に学びました。     
-  英語大学を卒業あとで試験を受けましたが証明期間が過ぎました。
 
 業務
 ----
@@ -51,11 +47,13 @@ title: Portfolio
 ------
 ![Skill](/images/skill.png)
 
-+ 言語：JAVA、JAVAScript、HTML、CSS、Vue、React
-+ Framework：Spring
++ 言語：JAVA、JavaScript、HTML、CSS
++ Framework：Vue、React, Spring, Junit
 + IDE：Eclipse、VSCode
-+ Database：SQL、OracleDatabase、Mssql
-+ Version Control：git（Github、Bitbucket）、SVN
++ Database：SQL、OracleDatabase, Mssql
++ Version Control：git（Github、Bitbucket）、TortoiseSVN
++ Issue management：Jira
++ Tools：ATS(Android Test Station)
 
 + 私はこのSCITMASTERで初めにプログラミングを勉強しました。     
   JAVA、Spring、Databaseを勉強しました。      
@@ -64,7 +62,7 @@ title: Portfolio
   JAVA、JavaScript（jQuery）など
 
 + 2022年11月から日本来てプロジェクトに参加して働いています。
-  
+  JAVA, JavaScriptなど
 
 プロジェクト
 =====
@@ -87,6 +85,7 @@ title: Portfolio
   + FrameWork：Spring
 + DataBase：MSsql
 + Version管理：Bitbucket
++ Issue management：Jira
 + 担当：各装置の制御、エナジー制御を担当しました。
       　デバッグ、修正、新規などの作業
 
@@ -96,6 +95,7 @@ title: Portfolio
 + 使用言語：
   + JAVA   
   + DataBase：OracleDataBase
++ Document management：gitLab
 + 担当：新しい料金開発依頼があれば該当する料金システムの要件定義、基本設計、詳細設計を担当しました。
 
 *******
@@ -105,4 +105,36 @@ title: Portfolio
   + JAVA、JavaScript、HTML、CSS   
   + FrameWork：Spring
 + DataBase：OracleDataBase
-+ 担当：単体テスト、デバッグ、修正、内部設計書作成
++ 担当：生命保険向け支払いシステムの開発をしました。
+内部設計書の作成、修正、デバッグ、単体テストなどの作業をうぃました。
+自分の担当はエンドユーザーが情報を照会する場合照会情報を表示するページを担当しました。
+修正するため設計書作成、テスト、修正、MokUp作成などをしました。
+
+*******
+
++ Title：メディケア生命
++ 使用言語：
+  + JAVA、JavaScript、HTML、CSS   
++ DataBase：OracleDataBase
++ Document management：TortoiseSVN
++ 担当：内部設計書、機能要求書、画面設計書などを作成しました。
+
+*******
+
++ Title：年金システム開発
++ 使用言語：
+  + Cobol
++ DataBase：OracleDataBase
++ Document management：TortoiseSVN
++ 担当：内部設計書作成
+
+*******
+
++ Title：カーオーディオ開発(Honda, Qualcomm)
++ 使用言語：
+  + JAVA、C++
++ DataBase：OracleDataBase
++ Tools：ATS(Android Test Station)
++ Issue management：Jira
++ Document management：TortoiseSVN
++ 担当：単体テスト、デバッグ、不具合の調査、リリース作業
